@@ -23,4 +23,4 @@ Holds all the major content that the user can see and interact with
 Holds all the JavaScript code for making the webpage more dynamic
 
 ## Google Analytics
-Template JavaScript for capturing website traffic and monitoring usage statistics. Requires a unie Google Analytics ID to work.
+Template JavaScript for capturing website traffic and monitoring usage statistics. Requires a unique Google Analytics ID to work.
