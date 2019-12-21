@@ -9,3 +9,6 @@ An HTML elemenent that creates a paragraph
 
 ## Heading
 A series of HTML elements H1 -> H6 that create heading tags that are decreasing in size as the number increases
+
+##Title Tag
+Displays the title of the webpage in the browser tab
