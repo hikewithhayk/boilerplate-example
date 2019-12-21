@@ -14,7 +14,7 @@ A series of HTML elements H1 -> H6 that create heading tags that are decreasing 
 Displays the title of the webpage in the browser tab
 
 ## Head Tag
-Loads all the necessary Cascading Style Sheet file, website title, configures the website language, and any other website prelimanary data
+Loads all the necessary Cascading Style Sheet (CSS) files, website title, configures the website language, and any other external website resources
 
 ## Body Tag
 Holds all the major content that the user can see and interact with
