@@ -1,7 +1,7 @@
 # Technical Definitions
 
 ## HTML Element
-An HTML Element goes into a website and indetifies the HTML content in the web page
+An HTML Element goes into a website and identifies the HTML content in the web page
 
 
 ## Paragraph Element
@@ -21,3 +21,6 @@ Holds all the major content that the user can see and interact with
 
 ## Script Tag
 Holds all the JavaScript code for making the webpage more dynamic
+
+## Google Analytics
+Template JavaScript for capturing website traffic and monitoring usage statistics. Requires a unie Google Analytics ID to work.
