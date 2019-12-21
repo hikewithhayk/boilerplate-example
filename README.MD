@@ -15,3 +15,6 @@ Displays the title of the webpage in the browser tab
 
 ##Head Tag
 Loads all the necessary Cascading Style Sheet file, website title, configures the website language, and any other website prelimanary data
+
+#Body Tag
+Holds all the major content that the user can see and interact with
