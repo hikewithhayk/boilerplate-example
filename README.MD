@@ -12,3 +12,6 @@ A series of HTML elements H1 -> H6 that create heading tags that are decreasing 
 
 ##Title Tag
 Displays the title of the webpage in the browser tab
+
+##Head Tag
+Loads all the necessary Cascading Style Sheet file, website title, configures the website language, and any other website prelimanary data
