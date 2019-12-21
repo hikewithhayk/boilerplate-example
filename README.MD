@@ -10,14 +10,14 @@ An HTML elemenent that creates a paragraph
 ## Heading
 A series of HTML elements H1 -> H6 that create heading tags that are decreasing in size as the number increases
 
-##Title Tag
+## Title Tag
 Displays the title of the webpage in the browser tab
 
-##Head Tag
+## Head Tag
 Loads all the necessary Cascading Style Sheet file, website title, configures the website language, and any other website prelimanary data
 
-#Body Tag
+## Body Tag
 Holds all the major content that the user can see and interact with
 
-##Script Tag
+## Script Tag
 Holds all the JavaScript code for making the webpage more dynamic
