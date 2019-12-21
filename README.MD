@@ -18,3 +18,6 @@ Loads all the necessary Cascading Style Sheet file, website title, configures th
 
 #Body Tag
 Holds all the major content that the user can see and interact with
+
+##Script Tag
+Holds all the JavaScript code for making the webpage more dynamic
